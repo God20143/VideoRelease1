@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Iframe</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        iframe {
+            width: 640px;
+            height: 360px;
+        }
+    </style>
+</head>
+<body>
+
+<iframe src="https://short.ink/EwIqrwocTs" frameborder="0" scrolling="0" allowfullscreen></iframe>
+
+</body>
+</html>
